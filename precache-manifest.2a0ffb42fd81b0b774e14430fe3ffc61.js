@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83dc46afaf4cc8689d61",
-    "url": "/housing/css/about.4f6bd4ff.css"
+    "revision": "1119eb9f1032843fb046",
+    "url": "/housing/css/about.e4858191.css"
   },
   {
-    "revision": "d372e71b79883b454a32",
-    "url": "/housing/css/app.467858d9.css"
+    "revision": "b408ca6064c802a5f1ea",
+    "url": "/housing/css/app.5d25c908.css"
   },
   {
-    "revision": "5324fa551cedd3c66acd",
-    "url": "/housing/css/chunk-55ee3d20.eea441a1.css"
+    "revision": "15f9e5351f60405c83b4",
+    "url": "/housing/css/chunk-23712a77.c1336658.css"
   },
   {
-    "revision": "2b66904436fca2e8bb3e",
-    "url": "/housing/css/chunk-6c086216.8a13e2a0.css"
+    "revision": "0273cc36e9dbd18d982d",
+    "url": "/housing/css/chunk-976a01f4.5b9df9e7.css"
   },
   {
-    "revision": "7e672b6c8731b0465ce9",
-    "url": "/housing/css/chunk-fabd1786.f0975764.css"
+    "revision": "3015cee5dc4b7b20e8ec",
+    "url": "/housing/css/chunk-a06a6940.6ca45f20.css"
   },
   {
     "revision": "74241c6e5371c986d8598d04d79cf9cb",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/housing/img/home.683408e6.png"
   },
   {
+    "revision": "b61a85b61923aa1e49a514b8d34dd5d0",
+    "url": "/housing/img/labvycs.b61a85b6.png"
+  },
+  {
     "revision": "351f8acb05a29484561953584cdeff0e",
     "url": "/housing/img/people-6027028_1920.351f8acb.jpg"
   },
@@ -84,32 +88,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/housing/img/research.954e1ab3.jpg"
   },
   {
-    "revision": "3ddc4fd81f354848340b559e322ed519",
+    "revision": "eda08253601c5a73658f1f03fccf8c0a",
     "url": "/housing/index.html"
   },
   {
-    "revision": "83dc46afaf4cc8689d61",
-    "url": "/housing/js/about.cc4e2c28.js"
+    "revision": "1119eb9f1032843fb046",
+    "url": "/housing/js/about.0174812a.js"
   },
   {
-    "revision": "d372e71b79883b454a32",
-    "url": "/housing/js/app.0d7cc4ff.js"
+    "revision": "b408ca6064c802a5f1ea",
+    "url": "/housing/js/app.a756890d.js"
+  },
+  {
+    "revision": "15f9e5351f60405c83b4",
+    "url": "/housing/js/chunk-23712a77.8f3b2784.js"
   },
   {
     "revision": "17bdb33837071c019de2",
     "url": "/housing/js/chunk-2d210c47.30acd19a.js"
   },
   {
-    "revision": "5324fa551cedd3c66acd",
-    "url": "/housing/js/chunk-55ee3d20.0b286a8c.js"
+    "revision": "0273cc36e9dbd18d982d",
+    "url": "/housing/js/chunk-976a01f4.28628a8f.js"
   },
   {
-    "revision": "2b66904436fca2e8bb3e",
-    "url": "/housing/js/chunk-6c086216.f2fd0b82.js"
-  },
-  {
-    "revision": "7e672b6c8731b0465ce9",
-    "url": "/housing/js/chunk-fabd1786.0a95bb44.js"
+    "revision": "3015cee5dc4b7b20e8ec",
+    "url": "/housing/js/chunk-a06a6940.bcdaffbe.js"
   },
   {
     "revision": "eeb1e807e89cfdc06df8",
