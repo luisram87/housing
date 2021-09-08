@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/housing/precache-manifest.2a0ffb42fd81b0b774e14430fe3ffc61.js"
+  "/housing/precache-manifest.6d876c9c17651fa89d784522fa55c488.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "housing"});
